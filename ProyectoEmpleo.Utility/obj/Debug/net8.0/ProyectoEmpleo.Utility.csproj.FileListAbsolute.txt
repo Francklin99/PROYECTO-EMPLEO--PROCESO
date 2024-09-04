@@ -1,0 +1,17 @@
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.Utility.deps.json
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.Utility.dll
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.Utility.pdb
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.DTO.dll
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.Model.dll
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.DTO.pdb
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\bin\Debug\net8.0\ProyectoEmpleo.Model.pdb
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.AssemblyInfo.cs
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\Proyecto.FB64298E.Up2Date
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.dll
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\refint\ProyectoEmpleo.Utility.dll
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ProyectoEmpleo.Utility.pdb
+C:\Users\frank\source\repos\ProyectoEmpleo\ProyectoEmpleo.Utility\obj\Debug\net8.0\ref\ProyectoEmpleo.Utility.dll
