@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWuOjRhy5zM=",
+  "dgSpecHash": "FAIgrVk6N/I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.IOC\\ProyectoEmpleo.IOC.csproj",
+  "projectFilePath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.IOC\\ProyectoEmpleo.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frank\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

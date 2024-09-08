@@ -8,6 +8,7 @@ import { Login } from '../Interfaces/Login';
 import { ResponseAcceso } from '../Interfaces/ResponseAcceso';
 
 
+
 @Injectable({
   providedIn: 'root'
 })
@@ -15,6 +16,7 @@ export class AccesoService {
 
   private http=inject(HttpClient);
   private baseUrl:string = appSettings.apiUrl + 'Acceso/';
+
 
   constructor() { }
 
@@ -30,4 +32,6 @@ export class AccesoService {
     return this.http.get<ResponseAcceso>(`${this.baseUrl}ValidarToken?token=${token}`);
 
   }
+  // Método para cerrar sesión
+
 }

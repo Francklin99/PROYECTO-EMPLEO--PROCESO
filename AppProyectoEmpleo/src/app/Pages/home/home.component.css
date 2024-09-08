@@ -20,7 +20,7 @@
   height: 100%;
   display: flex;
   align-items: center;
-  gap:20px;
+  gap:10px;
 }
 .logo-description h6{
   margin: 0;

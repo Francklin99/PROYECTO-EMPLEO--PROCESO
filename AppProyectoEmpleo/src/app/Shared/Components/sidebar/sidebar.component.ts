@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, inject } from '@angular/core';
+import { Router, RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-sidebar',
@@ -9,5 +9,14 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './sidebar.component.css'
 })
 export class SidebarComponent {
+
+  private router = inject(Router);
+  BuscarEmpleo(){
+    this.router.navigate(['/buscarempleo']);
+  }
+
+  MiPerfil(){
+    this.router.navigate(['/miperfil']);
+  }
 
 }

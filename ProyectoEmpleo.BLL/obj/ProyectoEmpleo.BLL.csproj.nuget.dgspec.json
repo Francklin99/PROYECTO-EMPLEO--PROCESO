@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj": {}
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj": {
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj",
         "projectName": "ProyectoEmpleo.BLL",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\obj\\",
+        "outputPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,17 +29,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj"
               },
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj"
               },
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
               },
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj": {
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj",
         "projectName": "ProyectoEmpleo.DAL",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\ProyectoEmpleo.DAL.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DAL\\obj\\",
+        "outputPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj",
         "projectName": "ProyectoEmpleo.DTO",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\obj\\",
+        "outputPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,7 +167,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -204,14 +208,14 @@
         }
       }
     },
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj",
         "projectName": "ProyectoEmpleo.Model",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\obj\\",
+        "outputPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,14 +285,14 @@
         }
       }
     },
-    "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj": {
+    "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj",
         "projectName": "ProyectoEmpleo.Utility",
-        "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj",
+        "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\obj\\",
+        "outputPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,11 +310,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj"
               },
-              "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
-                "projectPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
+              "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj": {
+                "projectPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj"
               }
             }
           }

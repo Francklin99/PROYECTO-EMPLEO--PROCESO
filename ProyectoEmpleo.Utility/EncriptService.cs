@@ -34,7 +34,7 @@ namespace ProyectoEmpleo.Utility
                 return builder.ToString();
             }
         }
-
+         
         public string generarJWT(User modelo)
         {
             //crear la información del usuario para token

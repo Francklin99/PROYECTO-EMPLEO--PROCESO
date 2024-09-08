@@ -2,13 +2,10 @@
 
   <div class="section-left">
     <div class="logo-description">
-      <img class="img-logo" src="logo.jpg"  alt="logo" loading="lazy"/>
+      <img class="img-logo" src="logo.png"  alt="logo" loading="lazy"/>
       <h6>JOB EMPLOYMENT</h6>
     </div>
-    <div class="search">
-      <button class="btn-search"><img src="search-icon.svg" style="width: 20px; height: 20px;" alt="logo" loading="lazy"/></button>
-      <input class="input-search" type="text" placeholder="Buscar">
-    </div>
+
   </div>
   <div class="section-right">
     <ul class="menu">
@@ -16,13 +13,23 @@
       <li><a><svg class="icon"  viewBox="0 0 32 32"><g><path d="M15.42,7.221c0-0.951-0.771-1.721-1.721-1.721H6.729c-0.951,0-1.721,0.771-1.721,1.721v6.103   c0,0.951,0.771,1.721,1.721,1.721h6.971c0.951,0,1.721-0.771,1.721-1.721V7.221z"/><path d="M27.742,7.221c0-0.951-0.77-1.721-1.721-1.721h-6.971c-0.951,0-1.721,0.771-1.721,1.721v6.103   c0,0.951,0.77,1.721,1.721,1.721h6.971c0.951,0,1.721-0.771,1.721-1.721V7.221z"/><path d="M15.42,18.676c0-0.951-0.771-1.721-1.721-1.721H6.729c-0.951,0-1.721,0.77-1.721,1.721v6.104   c0,0.95,0.771,1.721,1.721,1.721h6.971c0.951,0,1.721-0.771,1.721-1.721V18.676z"/><path d="M27.742,18.676c0-0.951-0.77-1.721-1.721-1.721h-6.971c-0.951,0-1.721,0.77-1.721,1.721v6.104   c0,0.95,0.77,1.721,1.721,1.721h6.971c0.951,0,1.721-0.771,1.721-1.721V18.676z"/></g></svg></a></li>
       <li><a><svg class="icon" viewBox="0 0 16 16" ><path d="M7 3V0H9V3H7Z"/><path d="M9 13V16H7V13H9Z"/><path d="M11 8C11 9.65685 9.65685 11 8 11C6.34315 11 5 9.65685 5 8C5 6.34315 6.34315 5 8 5C9.65685 5 11 6.34315 11 8Z"/><path d="M0 9H3V7H0V9Z" /><path d="M16 7H13V9H16V7Z" /><path d="M3.75735 5.17157L1.63603 3.05025L3.05025 1.63603L5.17157 3.75735L3.75735 5.17157Z"/><path d="M12.2426 10.8284L14.364 12.9497L12.9497 14.364L10.8284 12.2426L12.2426 10.8284Z"/><path d="M3.05025 14.364L5.17157 12.2426L3.75735 10.8284L1.63603 12.9498L3.05025 14.364Z"/><path d="M12.9497 1.63604L10.8284 3.75736L12.2426 5.17158L14.364 3.05026L12.9497 1.63604Z"/></svg></a></li>
     </ul>
-    <a id="btn-perfil"><img class="img-perfil" src="perfil.png" alt="perfil"></a>
+    <a id="btn-perfil"><img class="img-perfil" src="Perfil1.avif" alt="perfil"></a>
   </div>
 
   <div id="myModal" class="modal">
     <div class="modal-content">
-      <span class="close">&times;</span>
-      <p>Este es tu perfil.</p>
+      <div *ngIf="user" class="datos-perfil">
+        <strong>{{user.username}}</strong>
+        <p>{{user.email}}</p>
+      </div>
+      <hr>
+      <div class="option-perfil">
+        <ul class="perfil-menu">
+          <li class="menu-list"><mat-icon>settings</mat-icon><a>Configuración</a></li>
+          <li class="menu-list"><svg style="width: 24px; height: 24px;fill: white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 192 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l210.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128zM160 96c17.7 0 32-14.3 32-32s-14.3-32-32-32L96 32C43 32 0 75 0 128L0 384c0 53 43 96 96 96l64 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-64 0c-17.7 0-32-14.3-32-32l0-256c0-17.7 14.3-32 32-32l64 0z"/></svg><a (click)="logout()">Cerrar Sesión</a></li>
+        </ul>
+      </div>
+      <br/>
     </div>
   </div>
 

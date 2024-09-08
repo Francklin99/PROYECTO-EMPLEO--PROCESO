@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\",
+  "WorkspaceRootPath": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.api\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|solutionrelative:proyectoempleo.api\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EE7815B-EA2B-40B9-8586-897CE8DCE78A}|ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.utility\\encriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EE7815B-EA2B-40B9-8586-897CE8DCE78A}|ProyectoEmpleo.Utility\\ProyectoEmpleo.Utility.csproj|solutionrelative:proyectoempleo.utility\\encriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|solutionrelative:proyectoempleo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.bll\\servicios\\contrato\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|solutionrelative:proyectoempleo.bll\\servicios\\contrato\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.bll\\servicios\\contrato\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|solutionrelative:proyectoempleo.bll\\servicios\\contrato\\icuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.dto\\cuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|solutionrelative:proyectoempleo.dto\\cuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|solutionrelative:proyectoempleo.dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|c:\\users\\frank\\source\\repos\\proyectoempleo\\proyectoempleo.dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61AA41DF-F84E-4BEB-99F4-C3CD62BAADCF}|ProyectoEmpleo.DTO\\ProyectoEmpleo.DTO.csproj|solutionrelative:proyectoempleo.dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9E96BFF-3F19-4EBC-8280-0AF3D800B166}|ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E96BFF-3F19-4EBC-8280-0AF3D800B166}|ProyectoEmpleo.Model\\ProyectoEmpleo.Model.csproj|solutionrelative:proyectoempleo.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|solutionrelative:proyectoempleo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7030249E-C48D-46CE-9978-40C208D6C2D1}|ProyectoEmpleo.API\\ProyectoEmpleo.API.csproj|solutionrelative:proyectoempleo.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.bll\\servicios\\contrato\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|solutionrelative:proyectoempleo.bll\\servicios\\contrato\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|c:\\users\\frank\\source\\repos\\proyecto-empleo--proceso\\proyectoempleo.bll\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF426AC1-6A03-41BB-AC28-E68495D3D6EB}|ProyectoEmpleo.BLL\\ProyectoEmpleo.BLL.csproj|solutionrelative:proyectoempleo.bll\\servicios\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EncriptService.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\EncriptService.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.Utility\\EncriptService.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.Utility\\EncriptService.cs",
-              "RelativeToolTip": "ProyectoEmpleo.Utility\\EncriptService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA7wEAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T20:40:37.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\PersonDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.DTO\\PersonDTO.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\PersonDTO.cs",
-              "RelativeToolTip": "ProyectoEmpleo.DTO\\PersonDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T02:45:20.016Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccesoController.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.API\\Controllers\\AccesoController.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.API\\Controllers\\AccesoController.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.API\\Controllers\\AccesoController.cs",
-              "RelativeToolTip": "ProyectoEmpleo.API\\Controllers\\AccesoController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAzwEkAAABaAAAAAAAAAA==",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.DTO\\UserDTO.cs",
+              "RelativeToolTip": "ProyectoEmpleo.DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T02:43:06.712Z",
+              "WhenOpened": "2024-09-05T22:01:14.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\UserDTO.cs",
-              "RelativeToolTip": "ProyectoEmpleo.DTO\\UserDTO.cs",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\User.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.Model\\User.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.Model\\User.cs",
+              "RelativeToolTip": "ProyectoEmpleo.Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:32:29.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.API\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.API\\Program.cs",
-              "RelativeToolTip": "ProyectoEmpleo.API\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:09:04.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:21:33.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CuentaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\CuentaDTO.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.DTO\\CuentaDTO.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.DTO\\CuentaDTO.cs",
-              "RelativeToolTip": "ProyectoEmpleo.DTO\\CuentaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\Servicios\\UserService.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.BLL\\Servicios\\UserService.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\Servicios\\UserService.cs",
+              "RelativeToolTip": "ProyectoEmpleo.BLL\\Servicios\\UserService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:07:02.176Z"
+              "WhenOpened": "2024-09-05T21:05:34.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICuentaService.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\ICuentaService.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\ICuentaService.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\ICuentaService.cs",
-              "RelativeToolTip": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\ICuentaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\IUserService.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\IUserService.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\IUserService.cs",
+              "RelativeToolTip": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:06:50.596Z"
+              "WhenOpened": "2024-09-05T21:05:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProyectoEmpleo.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:46:48.117Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IPersonaService.cs",
-              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\IPersonaService.cs",
-              "RelativeDocumentMoniker": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\IPersonaService.cs",
-              "ToolTip": "C:\\Users\\frank\\source\\repos\\ProyectoEmpleo\\ProyectoEmpleo.BLL\\Servicios\\Contrato\\IPersonaService.cs",
-              "RelativeToolTip": "ProyectoEmpleo.BLL\\Servicios\\Contrato\\IPersonaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.API\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "ProyectoEmpleo.API\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\frank\\source\\repos\\PROYECTO-EMPLEO--PROCESO\\ProyectoEmpleo.API\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "ProyectoEmpleo.API\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T21:06:48.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:45:56.522Z"
             }
           ]
         }

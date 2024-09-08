@@ -15,5 +15,8 @@ namespace ProyectoEmpleo.BLL.Servicios.Contrato
         Task<bool> ModifyUser(UserDTO user);
         Task<bool> DeleteUser(int id);
         Task<User> Login(LoginDTO login);
+
+        //Agregamos para encontrar userInfo
+        Task<UserDTO> GetUserByIdAsync(int userId);
     }
 }

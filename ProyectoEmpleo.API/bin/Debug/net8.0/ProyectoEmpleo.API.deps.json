@@ -601,6 +601,9 @@
         }
       },
       "ProyectoEmpleo.DTO/1.0.0": {
+        "dependencies": {
+          "ProyectoEmpleo.Model": "1.0.0"
+        },
         "runtime": {
           "ProyectoEmpleo.DTO.dll": {
             "assemblyVersion": "1.0.0",

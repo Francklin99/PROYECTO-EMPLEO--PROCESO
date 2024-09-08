@@ -1,30 +1,42 @@
-import { Component, AfterViewInit } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { Component, AfterViewInit, inject, OnInit } from '@angular/core';
+import { Router, RouterOutlet } from '@angular/router';
+import {MatIconModule} from '@angular/material/icon';
+import { UserService } from '../../../Core/Services/user.service';
+import { CommonModule } from '@angular/common';
+import { User } from '../../../Core/Interfaces/User';
+
 
 @Component({
   selector: 'app-header',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, MatIconModule,CommonModule],
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.css'] // Corregido: styleUrls
 })
-export class HeaderComponent implements AfterViewInit {
+export class HeaderComponent implements AfterViewInit,OnInit {
+
+
+user:User | null=null;
+private userService = inject(UserService);
+private router = inject(Router);
+
+ngOnInit(): void {
+    this.userService.getUserInfo().subscribe((data)=>{
+      this.user = data.value;
+    })
+}
+
 
   ngAfterViewInit() {
     setTimeout(() => {
       const modal = document.getElementById('myModal');
       const btn = document.getElementById('btn-perfil');
-      const span = document.querySelector('.close') as HTMLElement;
 
-      console.log(modal, btn, span); // Verificar si se encuentran los elementos
+      console.log(modal, btn); // Verificar si se encuentran los elementos
 
-      if (btn && modal && span) {
+      if (btn && modal) {
         btn.onclick = function() {
           modal.style.display = 'block';
-        };
-
-        span.onclick = function() {
-          modal.style.display = 'none';
         };
 
         window.onclick = function(event) {
@@ -33,9 +45,14 @@ export class HeaderComponent implements AfterViewInit {
           }
         };
       } else {
-        console.error('One or more elements are null:', { modal, btn, span });
+        console.error('One or more elements are null:', { modal, btn});
       }
     }, 0);
+  }
+
+  logout() {
+    localStorage.removeItem('token'); // Remueve el token del localStorage
+    this.router.navigate(['/login']); // Redirige al usuario a la página de login
   }
 
 }

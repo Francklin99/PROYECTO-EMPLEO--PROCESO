@@ -65,6 +65,13 @@ namespace ProyectoEmpleo.BLL.Servicios
             throw new NotImplementedException();
         }
 
+        public async Task<UserDTO> GetUserByIdAsync(int userId)
+        {
+            // Buscar el usuario en la base de datos
+            var user =await _userRepository.obtener(x => x.Id == userId);
+            return _mapper.Map<UserDTO>(user);
+        }
+
         public Task<List<UserDTO>> GetUsers()
         {
             throw new NotImplementedException();

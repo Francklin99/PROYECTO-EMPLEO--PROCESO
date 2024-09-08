@@ -41,7 +41,7 @@ export default class LoginComponent {
         next:(data)=>{
           if(data.isSuccess){
             localStorage.setItem('token',data.token);
-            this.router.navigate(['inicio']);
+            this.router.navigate(['buscarempleo']);
           }
           else{
             alert("Credenciales incorrectas");

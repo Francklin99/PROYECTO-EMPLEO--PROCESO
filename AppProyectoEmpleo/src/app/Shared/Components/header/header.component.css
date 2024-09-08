@@ -114,28 +114,42 @@
   width: 100%;
   height: 100%;
   overflow: auto;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: transparent;
+  overflow: hidden;
 }
 
 .modal-content {
-  background-color: #fefefe;
-  margin: 15% 15% 15% 45%;
-  padding: 20px;
+  background-color: #454a63;
+  margin: 3.5% 10% 15% 89%;
   border: 1px solid #888;
-  width: 300px;
-  height:450px ;
+  width: 220px;
+  height:auto ;
+}
+.datos-perfil{
+  margin: 10px;
+  font-size: 0.75rem;
 }
 
-.close {
-  color: #aaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
-}
+.perfil-menu{
+  list-style: none;
+  margin: 0;
+  padding: 0;
 
-.close:hover,
-.close:focus {
-  color: black;
-  text-decoration: none;
+}
+.option-perfil{
+  margin: 10px;
+  padding: 0;
+}
+.menu-list{
+  height: 30px;
+  padding: 10px;
+  margin:5px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  gap:10px;
+}
+.menu-list:hover{
+  background-color: #2ab4e8;
   cursor: pointer;
 }

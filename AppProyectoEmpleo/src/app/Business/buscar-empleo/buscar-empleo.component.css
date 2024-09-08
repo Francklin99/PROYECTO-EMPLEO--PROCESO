@@ -1,0 +1,160 @@
+.container{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.body{
+  flex:1;
+  text-align: center;
+  border: 1px solid;
+}
+
+.body{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.body-text{
+text-align: center;
+}
+.body-search {
+  width: 60%;
+  margin: 0 auto;
+  height: 50px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding: 0 5px 0px 20px;
+  gap: 20px;
+  border: 1px solid gray;
+  outline: none; /* Eliminamos el estilo predeterminado del foco */
+}
+
+.body-search:focus-within {
+  border: 1px solid #2ab4e8;
+  box-shadow: 0 0 0 2px #2ab4e8;
+  outline: #2ab4e8; /* Puedes usar outline si prefieres */
+}
+
+.input-search{
+  width: 100%;
+  height: 90%;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.btn-search{
+  background-color: #2ab4e8;
+  height: 90%;
+  border-radius: 13px;
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Añade una transición suave */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  line-height: 1;
+  margin: 0;
+  gap:10px;
+  padding: 10px;
+}
+.btn-search:hover{
+  transform: scale(1.03); /* Aumenta el tamaño y sube ligeramente */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Añade una sombra para el efecto de elevación */
+}
+
+.section-result{
+  flex: 1;
+  display: flex;
+  gap:10px;
+  padding: 10px;
+  color:white;
+}
+
+.option-filters{
+  width: 200px;
+  height: 100%;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #1c273d;
+}
+
+.filter-option{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.filter-option:hover{
+  cursor: pointer;
+  color: #2ab4e8;
+}
+.option-filters hr{
+  width: 100%;
+}
+.filter-icon{
+  line-height: 1;
+  margin: 0;
+}
+.result-container{
+  flex: 1;
+  padding: 20px;
+
+}
+
+.card-result{
+  color: black;
+  width: 100%;
+  height: 120px;
+  border-radius: 20px;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+
+}
+/*APLICAR TRANSITION AL PRESIONAR EL BOTON*/
+.filter-option-description {
+  width: 100%;
+  max-height: 0;
+  overflow: hidden; /* Esto es necesario para ocultar el contenido cuando está colapsado */
+  transition: max-height 0.3s ease;
+  opacity: 0; /* Oculta visualmente el contenido */
+  visibility: hidden; /* Oculta visualmente pero sigue en el flujo */
+}
+
+.active {
+  max-height: 300px;
+  opacity: 1; /* Muestra el contenido */
+  visibility: visible;
+  transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+/*============================================*/
+
+.filter-option-list{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+
+}
+.filter-option-list li{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  justify-content: space-between;
+
+}

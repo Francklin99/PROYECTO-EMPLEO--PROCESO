@@ -10,5 +10,6 @@ namespace ProyectoEmpleo.BLL.Servicios.Contrato
     public interface ICuentaService
     {
         Task<CuentaDTO> RegistrarCuenta(CuentaDTO cuenta);
+
     }
 }

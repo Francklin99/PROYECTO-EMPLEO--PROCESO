@@ -56,5 +56,15 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyectoEmpleo.API.Controllers.UserController",
+    "Method": "GetUserInfo",
+    "RelativePath": "api/User/GetUserInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
